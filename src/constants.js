@@ -16,7 +16,7 @@ import githubLogo from "./assets/tech_logo/github.png";
 import vscodeLogo from "./assets/tech_logo/vscode.png";
 import postmanLogo from "./assets/tech_logo/postman.png";
 import reactnativeLogo from "./assets/tech_logo/reactnative.png";
-import androidStudioLogo from "./assets/tech_logo/androidstudio.png";
+import androidStudioLogo from "./assets/tech_logo/AndroidStudio.png";
 import intellijLogo from "./assets/tech_logo/intellij_IDEA.png";
 
 import bmuLogo from "./assets/education_logo/Bhagwan_Mahavir_University_logo.png";
